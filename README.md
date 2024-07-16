@@ -8,7 +8,7 @@ c）在pycharm终端中安装aip, 命令为：pip install baidu_aip
 d）在pycharm终端中安装pyaudio, 命令为：pip install pyaudio
 e）在pycharm终端中安装modbus_tk，命令为：pip install modbus_tk
 f）在http://www.wch.cn/products/CH340.html 下载 CH340 驱动并安装
-6、连接（如下图所示）：
+连接（如下图所示）：
 ![image](https://github.com/user-attachments/assets/29bafb88-b84a-415d-b29e-0617c977f89d)
 
 之后将USB转485模块连接电脑，在“我的电脑”->“设备管理器”
